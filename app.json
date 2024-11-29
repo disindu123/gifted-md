@@ -3,7 +3,7 @@
   "version": "5.0.0",
   "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to Enhance WhatsApp Communication experience",
   "website": "https://session.giftedtech.my.id",
-  "logo": "https://files.giftedtech.my.id/file/gifted-md.jpg",
+  "logo": "https://files.catbox.moe/52699c.jpg",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
   "repository": "https://github.com/mouricedevs/gifted",
   "success_url": "/",
@@ -120,7 +120,7 @@
       "value": "https://files.giftedtech.my.id/file/gifted-md.jpg"
     },
     "PREFIX": {
-      "description": "Your Bot Prefix (default: +) You can put your own custom prefix",
+      "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
       "required": true,
       "value": "."
     }
@@ -134,15 +134,6 @@
   "buildpacks": [
     {
       "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ]
   }
