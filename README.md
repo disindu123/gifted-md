@@ -1,5 +1,3 @@
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
@@ -7,12 +5,14 @@
 
 
 <details>
-<summary>𝐕𝐈𝐄𝐖 𝐂𝐇𝐀𝐍𝐆𝐄𝐋𝐎𝐆</summary>
-  
-- 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝑭𝒊𝒙𝒆𝒅 𝒂𝒏𝒅 𝒂𝒓𝒆 𝑾𝒐𝒓𝒌𝒊𝒏𝒈🔥.
-- 𝑶𝒗𝒆𝒓𝒂𝒍 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑰𝒎𝒑𝒓𝒐𝒗𝒆𝒎𝒆𝒏𝒕𝒔🤫.
-- Deprecated Buttoned Commands so everything is fine.
+<summary>NOTICE!!! (TAP TO READ)</summary>
 
+- For Panel Deployment You must download the zip from panel sections or from below link else your youtube downloaders wont work on panel.
+
+<a href="https://files.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+
+- You can add your custom premium/unlimited api key on set.js/.env on app.json(heroku) when deploying to avoid any inconveniences caused by free api key limit.
+  
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -65,9 +65,9 @@
 **(B) HOST ON TALKDROVE**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://host.talkdrove.com/signup?ref=L8QZZHYP"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
+<a href="https://host.talkdrove.com/auth/signup?ref=53A2DE6D"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
 
-<a href="https://youtu.be/PCqq34PJkAA?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
+<a href="https://youtu.be/YG3-oV2cVj8?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -95,9 +95,11 @@
 **(E) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://codes.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://files.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+
+<a href="https://youtu.be/1BwOqHhnFGs?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -106,7 +108,7 @@
 <details>
 <summary>TAP TO OPEN</summary>
 <a href="https://dash.rainxzet.com"><img src="https://img.shields.io/badge/RAINHOST%20SIGNUP-green" alt="Rainhost" width="150"></a>
-<a href="https://codes.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://files.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
 <a href="https://youtu.be/8YpaGQQN_x4"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Rainhost Tutorial" width="150"></a>
 </details>
 
